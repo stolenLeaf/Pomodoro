@@ -1,2 +1,2 @@
 # Pomodoro
-por ahora solo esta disponible en macOS, pronto la tendre en windows
+la apliacion esta disponible tanto en macOS como en windows, sientanse libre de proveer feedback para ir mejorandno esta apliacion cada vez mas y mas
